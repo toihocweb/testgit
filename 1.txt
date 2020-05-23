@@ -1,2 +1,3 @@
 this is a text
 this is added by nano command
+added by dev1
