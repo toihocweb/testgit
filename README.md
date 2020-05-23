@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FE Template
 
 [![N|Solid](https://i.imgur.com/BmorCRp.png)](https://www.facebook.com/Cheatsomething)
@@ -37,3 +38,6 @@ $ npm start
 ## License
 
 MIT
+
+
+
